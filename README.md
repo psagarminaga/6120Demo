@@ -23,8 +23,7 @@ In fulfillment of the requirements for MM 6860 - Introduction to Multimedia Proj
 
 ## I. Abstract
 
-Text for your abstract appears here. You are limited to an abstract of no more than 100 words. Write the abstract after you have written the rest of the proposal.
-How to Write an Abstract http://www.ece.cmu.edu/~koopman/essays/abstract.html
+What if there was a way to make life easier by augmenting simple step by step instructions for life? What if you were able to know exactly what to do and what to say at the right opportune moment? Would you trust a voice to tell you what to do when you are at a moment to do it? Would you say the exact thing that a voice tells you to say when it is necessary?
 
 ## II. Narrative
 
