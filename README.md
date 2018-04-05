@@ -21,7 +21,7 @@ In fulfillment of the requirements for MM 6860 - Introduction to Multimedia Proj
 
 
 
-## I. Abstract
+## I. Abstract (100)
 
 The emerging technology of Augmented Reality (AR) in the past few decades has introduced many concepts for uses cases to assist a worker of any professional field to learn complex tools with little to no training at all in a fairly small amount of time.
  Now with many companies getting into the manufacturing of AR devices such as wearable glasses, these concepts could actually be brought to existence with applications that are created using a software development kit (SDK) such as ARToolKit. 
@@ -31,11 +31,11 @@ This prototype was created in order to give those without an education a way to 
 This will provide an environment and a platform for the young generation to be a building block for the future of humanity.
 
 
-## II. Narrative
+## II. Narrative (500)
 
 A description of the project as a user experience, expressed in no more than 500 words with a focus on providing the reader a clear view of the intended outcome of the project.
 
-## III. Overview
+## III. Overview (500)
 Answer the following questions in no more than 500 words total.
 
 * What problem will this activity solve, or what opportunity will it exploit?
@@ -45,7 +45,7 @@ Answer the following questions in no more than 500 words total.
 * What assumptions do you bring to this project?
 * What are the potential risks and obstacles?
 
-## IV. Content
+## IV. Content (1000)
 
 A prosaic description of the content of the project, expressed in no more than 1000 words.
 
@@ -58,7 +58,7 @@ Most inventions are a solution to a problem, and most problems have more than on
 
 https://www.epo.org/learning-events/materials/inventors-handbook/novelty/prior-art.html
 
-## VI. Technology
+## VI. Technology (100)
 
 A description of the hardware and software required to render the project to practice along with short and meaningful justifications of each technological component, with a brief introduction of no more than 250 words and a justification of each technology used expressed in no more than 100 words per technology.
 
