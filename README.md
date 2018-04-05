@@ -23,7 +23,13 @@ In fulfillment of the requirements for MM 6860 - Introduction to Multimedia Proj
 
 ## I. Abstract
 
-What if there was a way to make life easier by augmenting simple step by step instructions for life? What if you were able to know exactly what to do and what to say at the right opportune moment? Would you trust a voice to tell you what to do when you are at a moment to do it? Would you say the exact thing that a voice tells you to say when it is necessary?
+The emerging technology of Augmented Reality (AR) in the past few decades has introduced many concepts for uses cases to assist a worker of any professional field to learn complex tools with little to no training at all in a fairly small amount of time.
+ Now with many companies getting into the manufacturing of AR devices such as wearable glasses, these concepts could actually be brought to existence with applications that are created using a software development kit (SDK) such as ARToolKit. 
+However, many of these AR devices are inaccessible to the common public because of cost and the small amount of developers that are creating these applications. 
+In order to solve this problem, a prototype was created to make wearable AR devices accessible to everyone by taking a do-it-yourself (DIY) approach. 
+This prototype was created in order to give those without an education a way to learn DIY electronics and simple programming skills to create content for the AR devices.
+This will provide an environment and a platform for the young generation to be a building block for the future of humanity.
+
 
 ## II. Narrative
 
