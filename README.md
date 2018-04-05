@@ -33,17 +33,23 @@ This will provide an environment and a platform for the young generation to be a
 
 ## II. Narrative (500)
 
-A description of the project as a user experience, expressed in no more than 500 words with a focus on providing the reader a clear view of the intended outcome of the project.
+Imagine being able to code in a programming language that you have never programmed in before by having a head-ups display in Augmented Reality show you lines of code that you can simply type in command line just like you would by looking at a cheat sheet. 
 
 ## III. Overview (500)
 Answer the following questions in no more than 500 words total.
 
 * What problem will this activity solve, or what opportunity will it exploit?
+  This activity of using a heads-up display to look at instructions will solve the problem of a person being able to juggle     with paper instructions and looking back and forth to materials that might not be easy to look at.
 * What is your project goal?
+  To provide a platform for the common person to be able to use Augmented Reality in a way to learn new ways to use complex     tools.
 * What is your project objective?
+  To create a DIY electronics kit to create AR glasses and a boot camp for programming in the best language to create content   for the platform.
 * What are your criteria for success?
+  When the common person could use Augmented Reality to help themselves and humanity.
 * What assumptions do you bring to this project?
+  That the common person would want to motivate themselves to do-it-themselves for a technology that is emerging.
 * What are the potential risks and obstacles?
+  Not having the right electronics to create the DIY kit and the common person not having the motivation to create something.
 
 ## IV. Content (1000)
 
