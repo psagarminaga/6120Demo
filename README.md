@@ -46,7 +46,11 @@ After properly fitting everything in and closing the housing, the instructions s
 Answer the following questions in no more than 500 words total.
 
 * What problem will this activity solve, or what opportunity will it exploit?
-  This activity of using a heads-up display to look at instructions will solve the problem of a person being able to juggle     with paper instructions and looking back and forth to materials that might not be easy to look at.
+
+By having a heads up display (HUD) command line prompt projected in your line of sight by augmented reality (AR), you would solve the problem of having to deal with juggling paper cheat sheets and other monitor displays. As a coder or programmer, being able to have a cheat sheet in an AR HUD for the most common commands of any programming or coding language available to you would give you an opportunity to be a proficient coder or programmer within days or weeks.
+
+By having a heads up display with relevant information given to you in real time, having to remember dozens upon dozens of code would be a thing of the past. The days of needing to have a white board, another monitor or paper that gives you the list of commands for the language that you are programming are gone.
+
 * What is your project goal?
   To provide a platform for the common person to be able to use Augmented Reality in a way to learn new ways to use complex     tools.
 * What is your project objective?
