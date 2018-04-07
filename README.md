@@ -33,7 +33,14 @@ This will provide an environment and a platform for the young generation to be a
 
 ## II. Narrative (500)
 
-Imagine being able to code in a programming language that you have never programmed in before by having a head-ups display in Augmented Reality show you lines of code that you can simply type in command line just like you would by looking at a cheat sheet. 
+A plain cardboard box comes in your mail and it has a stamp with the words “Augmented Reality for Everyone!” on it. It has a simple tab that has an arrow on it instructing you to pull upward on the tab to open the top of the box. When you open it, a smaller box is revealed that contains a pair of dorky looking thick black rimmed glasses. The glasses have thick temples which look like they will be housing the electronics. The bridge is also thick and looks like it will house the camera. Examining the lenses of the glasses closer, you could tell that the lenses are thicker than normal and have some kind of reflecting material on it which is probably the OLED display. Outside of the smaller box contains numerous jump wires of different colors, transistors, resistors, capacitors, a small Li-Poly battery, a tiny camera, a tiny speaker, a touch sensor button, and one small blue chipboard that is known as an Arduino Nano.
+
+A small instruction booklet is contained in it that has a picture of said dorky glasses on it with small electronics all over it. The book contains a few small warnings on it depicting some electrical hazards like all other new electronics contain. After a few pages of that, a small 11 page breakdown of the assembly of the AR glasses is presented. The booklet contains 13 pages total which is very lengthy but it gives you a completion time of 3-5 hours.
+
+Once you pick up the thick glasses and follow the instruction booklet, you start connecting wires to the Nano and adding the transistors, resistors and capacitors. The booklet explains in detail exactly how each piece is important and what its functionality is to the glasses. The more difficult parts of the assembly process is when you have to open up the temple on the glasses and try to fit each piece into the housing. The LiPo has its own section, the speaker is right in front of it, the touch sensor is on the opposite side of the speaker and the nano fits perfectly right in the main body of the temple.
+
+After properly fitting everything in and closing the housing, the instructions say to place the glasses on and hold the outside of the temple for 5 seconds. After 5 seconds you hear a distinct electronic tune that is modeled after the video game Portal. Then, a series of lots of code runs through the lenses which is the boot process for the Linux operating system that the glasses run on. After this, a command line pop-ups and displays the line “ar@everyone ~ $ _”. This is the beginning of the future for learning code easily by being able to see an augmented cheat sheet which will help you to learn code easily and not bother with paper cheat sheets. 
+
 
 ## III. Overview (500)
 Answer the following questions in no more than 500 words total.
