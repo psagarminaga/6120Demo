@@ -61,13 +61,17 @@ By providing a DIY bootcamp platform for electronics and Augmented Reality, I ho
 
 * What is your project objective?
   
-  The objective for this project is to make those with minimal knowledge of technology aware of the new learning platforms that could give them an opportunity for a job or to teach others this knowledge and expand the learning horizon for the masses.
+  The objective for this project is to make those with minimal knowledge of technology aware of new learning platforms that could give them an opportunity for a job or to teach others this knowledge and expand the learning horizon for the masses.
 
-In order to bring all of the newly learned concepts together and create prototypes, I hope to make sure that those that are learning these emerging technologies like AR have a foundation to build, iterate and improve on the ideas that they have built.
+In order to bring all of the newly learned concepts together and create prototypes, I hope to make sure that those that are learning these emerging technologies like AR to make sure they have a foundation to build, iterate and improve on the ideas that they have built.
 
   
 * What are your criteria for success?
-  When the common person could use Augmented Reality to help themselves and humanity.
+
+  In order to achieve success with this project, a certain number of criteria needs to be set. The order of this criteria is important and will be characterized by how well the individual that has this DIY kit is learning and interacting with the kit. The pace will be set by a learning curve and examined on how well the response is with the number of unknown concepts and subsequent absorption of the technology.
+
+When the concepts are absorbed, learned and practiced, then the pace can be set and the techniques can be learned at a pace that is expected. When the AR HUD is introduced, this pace can be accelerated and assumed that within a certain timeline the individual will be coding and programming at a surprisingly fast level capable of speeds that are almost equal to those individuals that have a year or so of experience.
+
 * What assumptions do you bring to this project?
   That the common person would want to motivate themselves to do-it-themselves for a technology that is emerging.
 * What are the potential risks and obstacles?
