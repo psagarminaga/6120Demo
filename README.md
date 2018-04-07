@@ -51,14 +51,21 @@ By having a heads up display (HUD) command line prompt projected in your line of
 
 By having a heads up display with relevant information given to you in real time, having to remember dozens upon dozens of code would be a thing of the past. The days of needing to have a white board, another monitor or paper that gives you the list of commands for the language that you are programming are gone.
 
+
 * What is your project goal?
 
 The goal for this project will be to provide an in-depth learning experience for those that have minimal to no experience in building prototypes with electronics and coding/programming for augmented reality. This will give them an introduction to being able to understand emerging technology and new cutting edge hardware and software development kits (SDK).
 
 By providing a DIY bootcamp platform for electronics and Augmented Reality, I hope to spark the interest of those with curiosity in the realm of new emerging technology and coding and programming. By setting a foundation for learning, my goal is to have pioneers in this realm of DIY to teach others in learning these concepts that they themselves have learned and mastered.
 
+
 * What is your project objective?
-  To create a DIY electronics kit to create AR glasses and a boot camp for programming in the best language to create content   for the platform.
+  
+  The objective for this project is to make those with minimal knowledge of technology aware of the new learning platforms that could give them an opportunity for a job or to teach others this knowledge and expand the learning horizon for the masses.
+
+In order to bring all of the newly learned concepts together and create prototypes, I hope to make sure that those that are learning these emerging technologies like AR have a foundation to build, iterate and improve on the ideas that they have built.
+
+  
 * What are your criteria for success?
   When the common person could use Augmented Reality to help themselves and humanity.
 * What assumptions do you bring to this project?
