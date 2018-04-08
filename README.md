@@ -139,8 +139,7 @@ The other technology will be the software development and the content that will 
 
 ## VII. Production Schedule
 
-A timeline of production formatted using a Gantt chart that shows components and processes of production broken down appropriately into tasks and sub-tasks. A link to an online, hosted Gantt chart may be provided but the link must be verified as working for others to view before the submittal of the proposal.
-Creating a  WBS - http://uweoconnect.extn.washington.edu/publicprojman04/
+![Screenshot](gantt.png)
 
 ## VIII. Budget
 
