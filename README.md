@@ -83,7 +83,38 @@ When the concepts are absorbed, learned and practiced, then the pace can be set 
 
 ## IV. Content (1000)
 
-A prosaic description of the content of the project, expressed in no more than 1000 words.
+An Augmented Realtiy (AR) Do-It-Yourself (DIY) kit is available to everyone that could affort $50 for this introduction to this emerging technology. What is offered is a platform for learning new technologies in the hardware and software realm and being able to rapidly implement those learned concepts into an integrated software development kit (SDK).
+
+This emerging technology of AR is not a new concept. History of AR
+The desire to supplement the skills of the human has been thought of and implemented over and over again in the past millennia. However, not a lot of technological advances has been made to make AR a learning platform for incremental progressions. 
+
+When you have a tool to learn, you mostly reference a booklet or a multimedia experience like audio or video. There might be an interactive experience included with the audio and video learning part but it is mostly a physical platform with a few booklets and guides to online videos.
+
+You can also have a physical interactive learning experience that includes having to ask an expert human being about AR and their experience with the platform and all of the common mistakes, successes and general assumptions about the new technology. Their stories and experiences with the technology can serve as inspirational platforms to learn from and also improve upon.
+
+This immersive platform of augmented reality is still in its infancy and has yet to be proven successful within the educational realm. Of course when one thinks of AR, one immediately thinks of games and entertainment. There are plenty of application uses for these kind of platforms and it is no wonder why it is dominating the market.
+
+With my idea of having AR available for everyone, this will hopefully encourage those that are interested and curious about this emerging technology to do research and learn as much as they can about it without being put off on how unknown or intimidating it might be.
+
+There has been plenty of research in the realm of learning and AR within the last few decades spanning back to 1980 when it was used to teach pilots certain flight skills like landing a plane. These type of skills could only be learned by having a supplemental piece of hardware that allows for the learner to concentrate on the most important parts of their physical interaction with what they are doing and allows for them to visualize important parts of navigation without having to deal with other materials with their hands.
+
+This same type of idea is the basis of what I would want to do with learning code and programming with a novice in mind that wants to be in technology. Being able to immerse oneself in an unknown technology and having the opportunity to learn hands on said technology is one of the most fulfillful experiences that one can have.
+
+The world of AR will put the human psyche in a realm that it has never been before and will open up a platform of mystery of what human perception is and what it can be. Being able to see that which has never been seen before can be a whole new experience for many and might be too much for others. This is what technology has been and will continue to be. Many will not understand and will not be adopted. Google Glass tried and failed because of this reason.
+
+If AR is to succeed then it has to be introduced to those that do not have as many opportunities as the privileged. If AR is to succeed then it needs to be shown to those that believe that technology is not as important than human abilities and human intuition. Technology has always been and will be on the forefront of human evolution.
+
+Just like the lightbulb, the telephone, the automobile, the airplane, the radio, the television, the computer, the internet and countless other technological advances that humanity has made, Augmented Reality will be the next in the timeline for one of the technologies that humankind has been able to use to progress the evolution of humanity and develop a better understanding of human capability.
+
+With that said, I have a dream that Augmented Reality can be provided to everyone with a Do-It-Yourself kit that encourages the common person without any knowledge of electronics or computing to be able to create their own AR glasses and code their own content so they might be able to offer a whole new perspective in the human realm and change the world that they live in.
+
+This also introduces the whole new concept of perception. If you are able to view things that you were never had the chance to, what would that feel like? How would you feel like? How would you think? These are the questions that will be in the back of the minds of the subjects that will have AR glasses on. The concept of being able to have new information augmented into your field of vision is almost superhuman in a way.
+
+If you wanted to know what the temperature was outside in a second, it would be in your periphery. More importantly, your heart rate and blood pressure can be displayed at a glance on command.. Your weight, height, blood type, race, ethnicity and any other medical records can be displayed to you before you see a doctor.
+
+With these use cases, I would like to concentrate on the field of coding and programming for the field of AR. Those that will have the AR DIY kit will have the opportunity to build, create and code their own AR for whatever purpose that they imagine. If they want to know the codes for special moves for their favorite video game characters, they can program that into their AR glasses customized only for them. If they want to have cheat codes for a game that they cannot pass, they would be able too.
+
+Augmented Reality is a special field that is still in its infancy and there are many applications and use cases that have yet to be researched but I believe that within the next five years that it will be on the forefront of the technological breakthrough that humanity has been waiting for.
 
 ### V. Prior Art
 Prior art is any evidence that your invention is already known. Prior art does not need to exist physically or be commercially available.
