@@ -126,6 +126,9 @@ https://hackaday.com/2015/11/10/the-simplest-smart-glasses-concept/
 A DIY AR Headset: 9 Steps (with pictures)
 http://www.instructables.com/id/Uwear-a-DIY-AR-Headset/
 
+Google Glass - Arduino Version
+http://chowdhury-tech.blogspot.co.uk/2015/05/google-glass-arduino-version.html
+
 
 ## VI. Technology (100)
 
