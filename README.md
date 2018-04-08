@@ -117,10 +117,10 @@ Augmented Reality is a special field that is still in its infancy and there are 
 
 ### V. Prior Art
 
-Arduino Glass - Open Source Augmented Reality Headset
+[1] Arduino Glass - Open Source Augmented Reality Headset
 http://www.instructables.com/id/Arduino-Glass-Open-Source-Augmented-Reality-Headse/
 
-The Simplest Smart Glasses Concept (Jordan Fung)
+[2] The Simplest Smart Glasses Concept (Jordan Fung)
 https://hackaday.com/2015/11/10/the-simplest-smart-glasses-concept/
 
 A DIY AR Headset: 9 Steps (with pictures)
@@ -150,10 +150,9 @@ The other technology will be the software development and the content that will 
 
 ## IX. Bibliography
 
-https://en.wikipedia.org/wiki/ATmega328
+[1] Magesh, Arun. "Arduino Glass - Open Source Augmented Reality Headset" Instructables, http://www.instructables.com/id/Arduino-Glass-Open-Source-Augmented-Reality-Headse/
 
-Magesh, Arun. "Arduino Glass - Open Source Augmented Reality Headset" Instructables, http://www.instructables.com/id/Arduino-Glass-Open-Source-Augmented-Reality-Headse/
+[2] Fung, Jordan. "Arduino-Based Smart Glasses by a 13-year-old - Jordan Fung's Pedosa Glass" Youtube, https://hackaday.com/2015/11/10/the-simplest-smart-glasses-concept/
 
-Fung, Jordan. "Arduino-Based Smart Glasses by a 13-year-old - Jordan Fung's Pedosa Glass" Youtube, https://www.youtube.com/watch?v=u2kvlrzd1Ic
-
+[3] Wikipedia. "ATmega328" https://en.wikipedia.org/wiki/ATmega328
 
