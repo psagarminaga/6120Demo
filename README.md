@@ -48,25 +48,28 @@ Answer the following questions in no more than 500 words total.
 * What problem will this activity solve, or what opportunity will it exploit?
 
 By having a heads up display (HUD) command line prompt projected in your line of sight by augmented reality (AR), you would solve the problem of having to deal with juggling paper cheat sheets and other physical interfaces. Being able to have a cheat sheet in an AR HUD for the most common commands of any programming or coding language available to you would give you an opportunity to be a proficient coder or programmer within days or weeks.
+
 By having a heads up display with relevant information given to you in real time, having to remember dozens upon dozens of code would be a thing of the past. The days of needing to have a physical cheat sheet in front of you are gone.
 
 * What is your project goal?
 
 The goal for this project will be to provide an in-depth learning experience for those that have minimal to no experience in building prototypes with electronics and coding/programming for software development kits (SDK). This will give them an introduction to being able to understand emerging technology and new cutting edge hardware and SDKs.
+
 By providing a DIY bootcamp platform for electronics and Augmented Reality, I hope to spark the interest of those with curiosity in the realm of new emerging technology and coding and programming. By setting a foundation for learning, my goal is to have pioneers in this realm of DIY to teach others in learning these concepts that they themselves have learned and mastered.
 
 
 * What is your project objective?
   
- In order to achieve success with this project, a certain number of criteria needs to be set. The order of this criteria is important and will be characterized by how well the individual that has this DIY kit is learning and interacting with the kit. The pace will be set by a learning curve and examined on how well the response is with the number of unknown concepts and subsequent absorption of the technology.
-When the concepts are absorbed, learned and practiced, then the pace can be set and the techniques can be learned at a pace that is expected. When the AR HUD is introduced, this pace can be accelerated and assumed that within a certain timeline the individual will be coding and programming at a surprisingly fast level capable of speeds that are almost equal to those individuals that have a year or so of experience.
+The objective for this project is to make those with minimal knowledge of technology aware of new learning platforms that could give them an opportunity for a job or to teach others this knowledge and expand the learning horizon for the masses.
 
-  
+In order to bring all of the newly learned concepts together and create prototypes, I hope to prepare those that are learning these emerging technologies like AR to make sure they have a foundation to build, iterate and improve on the ideas that they have built
+
+
 * What are your criteria for success?
 
-  In order to achieve success with this project, a certain number of criteria needs to be set. The order of this criteria is important and will be characterized by how well the individual that has this DIY kit is learning and interacting with the kit. 
+In order to achieve success with this project, a certain number of criteria needs to be set. The order of this criteria is important and will be characterized by how well the individual that has this DIY kit is learning and interacting with the kit. The pace will be set by a learning curve and examined on how well the response is with the number of unknown concepts and subsequent absorption of the technology.
 
-When the concepts are absorbed, learned and practiced, then the pace can be set and the techniques can be learned at a pace that is expected. When the AR HUD is introduced, this pace can be accelerated and assumed that within a certain timeline the individual will be coding and programming at surprisingly fast levels capable of speeds that are almost equal to those individuals that have a year or so of experience.
+When the concepts are absorbed, learned and practiced, then the pace can be set and the techniques can be learned at a pace that is expected. When the AR HUD is introduced, this pace can be accelerated and assumed that within a certain timeline the individual will be coding and programming at a surprisingly fast level capable of speeds that are almost equal to those individuals that have a year or so of experience.
 
 
 * What assumptions do you bring to this project?
@@ -113,13 +116,16 @@ With these use cases, I would like to concentrate on the field of coding and pro
 Augmented Reality is a special field that is still in its infancy and there are many applications and use cases that have yet to be researched but I believe that within the next five years that it will be on the forefront of the technological breakthrough that humanity has been waiting for.
 
 ### V. Prior Art
-Prior art is any evidence that your invention is already known. Prior art does not need to exist physically or be commercially available.
 
-While looking for prior art, you should also look for competing art. These are ideas that may not be at all like yours but do the same job. It is important to study competing art for two reasons:
+Arduino Glass - Open Source Augmented Reality Headset
+http://www.instructables.com/id/Arduino-Glass-Open-Source-Augmented-Reality-Headse/
 
-Most inventions are a solution to a problem, and most problems have more than one possible solution. You need to examine other solutions, as some may offer more advantages than yours.
+The Simplest Smart Glasses Concept (Jordan Fung)
+https://hackaday.com/2015/11/10/the-simplest-smart-glasses-concept/
 
-https://www.epo.org/learning-events/materials/inventors-handbook/novelty/prior-art.html
+A DIY AR Headset: 9 Steps (with pictures)
+http://www.instructables.com/id/Uwear-a-DIY-AR-Headset/
+
 
 ## VI. Technology (100)
 
