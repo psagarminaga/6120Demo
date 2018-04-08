@@ -143,16 +143,17 @@ The other technology will be the software development and the content that will 
 
 ## VIII. Budget
 
-A line-item budget that details all costs associated with the project with the below format. You do not need to calculate accessories (cables, media) or tax or shipping and are afforded a single computer with Adobe Creative Suite (CS 5) to work on (so those items need not be accounted for).
-
 |Item|Unit Cost|Qty|Cost|Justification|
 |---|---|---|---|---|
-|Logitech 1995 Super low-tech camera|$99|3|$297|Computer vision; low frame rate and terrible resolution needed for the tracking LEDs on mice.|
-||||||
-||||||
-|Total Cost||||||
+|10pcs Arduino Nano V3.0 ATmega328P Micro controller board module|$35.99|1|Essential|
+|Total Cost| $45.00|
 
 ## IX. Bibliography
 
-Turabian or MLA-style citations or references
-MLA Formatting and Style Guide - https://owl.english.purdue.edu/owl/resource/747/01/
+https://en.wikipedia.org/wiki/ATmega328
+
+Magesh, Arun. "Arduino Glass - Open Source Augmented Reality Headset" Instructables, http://www.instructables.com/id/Arduino-Glass-Open-Source-Augmented-Reality-Headse/
+
+Fung, Jordan. "Arduino-Based Smart Glasses by a 13-year-old - Jordan Fung's Pedosa Glass" Youtube, https://www.youtube.com/watch?v=u2kvlrzd1Ic
+
+
