@@ -132,7 +132,10 @@ http://chowdhury-tech.blogspot.co.uk/2015/05/google-glass-arduino-version.html
 
 ## VI. Technology (100)
 
-A description of the hardware and software required to render the project to practice along with short and meaningful justifications of each technological component, with a brief introduction of no more than 250 words and a justification of each technology used expressed in no more than 100 words per technology.
+The hardware technology that will primarily be used is the Arduino Nano with the integrated ATmega328P microcontroller. This chipset is known for “autonomous systems where a simple, low-powered, low-cost micro-controller is needed” [1] Because of it size, it complements the need for a small computer form factor in such a housing like glasses.
+
+The other technology will be the software development and the content that will be created for the Nano. Using the Arduino IDE, I will code the foundation of the hardware and code other content using the SDK Vuforia. The software platform might change due to the hardware restrictions and also if it has the capabilities for the specific type of augmentation.
+
 
 ## VII. Production Schedule
 
