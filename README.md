@@ -47,23 +47,19 @@ Answer the following questions in no more than 500 words total.
 
 * What problem will this activity solve, or what opportunity will it exploit?
 
-By having a heads up display (HUD) command line prompt projected in your line of sight by augmented reality (AR), you would solve the problem of having to deal with juggling paper cheat sheets and other physical interfaces.
-
-By having a heads up display with relevant information given to you in real time, having to remember dozens upon dozens of code would be a thing of the past. 
-
+By having a heads up display (HUD) command line prompt projected in your line of sight by augmented reality (AR), you would solve the problem of having to deal with juggling paper cheat sheets and other physical interfaces. Being able to have a cheat sheet in an AR HUD for the most common commands of any programming or coding language available to you would give you an opportunity to be a proficient coder or programmer within days or weeks.
+By having a heads up display with relevant information given to you in real time, having to remember dozens upon dozens of code would be a thing of the past. The days of needing to have a physical cheat sheet in front of you are gone.
 
 * What is your project goal?
 
-The goal for this project will be to provide an in-depth learning experience for those that have minimal to no experience in building prototypes with electronics and coding/programming for augmented reality. 
-
-By providing a DIY bootcamp platform for electronics and Augmented Reality, I hope to spark the interest of those with curiosity in the realm of new emerging technology and coding and programming. 
+The goal for this project will be to provide an in-depth learning experience for those that have minimal to no experience in building prototypes with electronics and coding/programming for software development kits (SDK). This will give them an introduction to being able to understand emerging technology and new cutting edge hardware and SDKs.
+By providing a DIY bootcamp platform for electronics and Augmented Reality, I hope to spark the interest of those with curiosity in the realm of new emerging technology and coding and programming. By setting a foundation for learning, my goal is to have pioneers in this realm of DIY to teach others in learning these concepts that they themselves have learned and mastered.
 
 
 * What is your project objective?
   
-  The objective for this project is to make those with minimal knowledge of technology aware of learning new platforms that could give them an opportunity for a job or to teach others this knowledge and expand the learning horizon for the masses.
-
-In order to bring all of the newly learned concepts together and create prototypes, I hope that those that are learning these emerging technologies like AR have a foundation to build, iterate and improve on the ideas that they have built.
+ In order to achieve success with this project, a certain number of criteria needs to be set. The order of this criteria is important and will be characterized by how well the individual that has this DIY kit is learning and interacting with the kit. The pace will be set by a learning curve and examined on how well the response is with the number of unknown concepts and subsequent absorption of the technology.
+When the concepts are absorbed, learned and practiced, then the pace can be set and the techniques can be learned at a pace that is expected. When the AR HUD is introduced, this pace can be accelerated and assumed that within a certain timeline the individual will be coding and programming at a surprisingly fast level capable of speeds that are almost equal to those individuals that have a year or so of experience.
 
   
 * What are your criteria for success?
@@ -74,8 +70,8 @@ When the concepts are absorbed, learned and practiced, then the pace can be set 
 
 
 * What assumptions do you bring to this project?
-
-  The assumption expected for this project will be that the individual with this kit will not be motivated enough to complete it. Assembling AR glasses will be intimidating to many and only a few will be able to follow through in completing the assembly and coding of the content.
+  
+  The assumption expected for this project will be that the individual will not be motivated enough to complete the DIY kit. Assembling AR glasses will be intimidating to many and only a few will be able to follow through in completing the assembly and coding of the content.
   
 * What are the potential risks and obstacles?
 
