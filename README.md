@@ -129,10 +129,13 @@ http://www.instructables.com/id/Uwear-a-DIY-AR-Headset/
 Google Glass - Arduino Version
 http://chowdhury-tech.blogspot.co.uk/2015/05/google-glass-arduino-version.html
 
+[3] Polylens - DIY AR Device
+https://vrscout.com/projects/diy-ar-device-hololens/
+
 
 ## VI. Technology (100)
 
-The hardware technology that will primarily be used is the Arduino Nano with the integrated ATmega328P microcontroller. This chipset is known for “autonomous systems where a simple, low-powered, low-cost micro-controller is needed” [1] Because of it size, it complements the need for a small computer form factor in such a housing like glasses.
+The hardware technology that will primarily be used is the Arduino Nano with the integrated ATmega328P microcontroller. This chipset is known for “autonomous systems where a simple, low-powered, low-cost micro-controller is needed” [4] Because of it size, it complements the need for a small computer form factor in such a housing like glasses.
 
 The other technology will be the software development and the content that will be created for the Nano. Using the Arduino IDE, I will code the foundation of the hardware and code other content using the SDK Vuforia. The software platform might change due to the hardware restrictions and also if it has the capabilities for the specific type of augmentation.
 
@@ -154,5 +157,7 @@ The other technology will be the software development and the content that will 
 
 [2] Fung, Jordan. "Arduino-Based Smart Glasses by a 13-year-old - Jordan Fung's Pedosa Glass" Youtube, https://hackaday.com/2015/11/10/the-simplest-smart-glasses-concept/
 
-[3] Wikipedia. "ATmega328" https://en.wikipedia.org/wiki/ATmega328
+[3] Keynejad, Sabba. "Building a DIY AR Device for under $30", VRScout, https://vrscout.com/projects/diy-ar-device-hololens/
+
+[4] Wikipedia. "ATmega328" https://en.wikipedia.org/wiki/ATmega328
 
